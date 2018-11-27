@@ -1,0 +1,44 @@
+img {
+    display: block; 
+    margin-right: auto;
+    margin-left: auto;
+}
+body {
+    text-align: center;
+}
+.roblox {
+    width: 854px;
+    height: 480px;
+}
+.operatingSystem {
+    width: 800px;
+    height: 525px;
+}
+.header {
+    font-size: 50px;
+    font-family: 'Indie Flower', cursive;
+}
+.bestGame {
+    font-size:50px;
+    font-family: 'Indie Flower', cursive;
+}
+.bestGame2 {
+    font-size: 40px;
+    font-family: 'Shadows Into Light';
+}
+.bestWorkPlace {
+    font-size:50px;
+    font-family: 'Indie Flower', cursive;
+}
+.benandjerrys {
+    font-size:40px;
+    font-family: 'Shadows Into light';
+}
+.bestOperatingSystem {
+    font-size: 40px;
+    font-family: 'Indie Flower';
+}
+.bestClass {
+    font-size: 50px;
+    font-family: 'Shadows Into light';
+}
